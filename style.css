@@ -1,0 +1,23 @@
+body {
+	background: #ffc2d1;
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+/* Navbar */
+#nav-main {
+	font-size: 1.5rem;
+	font-weight: 100;
+	padding: 0 20px;
+}
+
+#nav-main .navbar-brand {
+	color: #520943;
+}
+
+#nav-main .nav-link {
+	color: #fff;
+}
+
+#nav-main .nav-link:hover {
+	color: #520943;
+}
