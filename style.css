@@ -10,6 +10,7 @@ img {
 
 /* Navbar */
 #nav-main {
+	background: #fdd3ff;
 	font-size: 1.5rem;
 	font-weight: 100;
 	padding: 0 20px;
@@ -56,12 +57,12 @@ img {
 	font-weight: 100;
 }
 
-#main img {
+#main .lollipop {
 	box-shadow: none;
 }
 
 #main .main-content {
-	margin-top: 100px;
+	margin: 100px 0;
 }
 
 #main .main-img {
